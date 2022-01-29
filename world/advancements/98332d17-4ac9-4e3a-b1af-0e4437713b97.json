@@ -1,0 +1,862 @@
+{
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_cyan": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_green": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_pink": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_purple": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_light_gray": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_magenta": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting_machines/wireless_switch_card": {
+    "criteria": {
+      "wirelessswitch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_white": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_black": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_yellow": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_brown": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_orange": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/campfire_underwater": {
+    "criteria": {
+      "campfire_soul": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_white": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/battery_neon": {
+    "criteria": {
+      "battery_neon": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/misc/pink_dye_from_pink_daisy": {
+    "criteria": {
+      "has_pink_flower": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-01-30 00:14:58 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_red": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_blue": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_brown": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting_machines/switch_board": {
+    "criteria": {
+      "switch_board": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_light_gray": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_light_blue": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_gray": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/building_blocks/rainbow_wool": {
+    "criteria": {
+      "has_white_wool": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_gray": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_orange": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_blue": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_blue": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "agape:tick_00": {
+    "criteria": {
+      "tick": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_magenta": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_base": {
+    "criteria": {
+      "tikibase": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_brown": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/danger_lamp": {
+    "criteria": {
+      "danger_lamp": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_red": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_lime": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_gray": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_cyan": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/wall_light": {
+    "criteria": {
+      "walllight": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_white": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_light_blue": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_underwater": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_orange": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_blue": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_magenta": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_black": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_light_gray": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_pink": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:map_endcity": {
+    "criteria": {
+      "hasmap": "2022-01-30 00:12:30 +0300"
+    },
+    "done": false
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_green": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_yellow": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/pumpkin_trio_inverted": {
+    "criteria": {
+      "pumpkin_inverted": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_black": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/fence_solar": {
+    "criteria": {
+      "solar_fence": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_yellow": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_orange": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/unclear_glass": {
+    "criteria": {
+      "unclear_glass": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_pink": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_cyan": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_orange": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_gray": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_cyan": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_orange": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_yellow_flower": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_black": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_cyan": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/decorations/rainbow_bed": {
+    "criteria": {
+      "has_rainbow_wool": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_magenta": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tortilla": {
+    "criteria": {
+      "has_flour": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_red": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_brown": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_pink": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/lava_lamp": {
+    "criteria": {
+      "lava_lamp": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_purple": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_yellow": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/suspicious_lamp": {
+    "criteria": {
+      "suspicious_lamp": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_blue": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_light_blue": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_green": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/melon_lantern": {
+    "criteria": {
+      "has_carved_melon": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting_machines/solar_panel": {
+    "criteria": {
+      "solarpanel": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_white": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "soaringstructures2:soaringstart": {
+    "criteria": {
+      "adv_test": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_black": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_light_gray": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_gray": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": false
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_purple": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_green": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_lime": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_light_gray": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_light_blue": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_purple": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_lime": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "earthtojavamobs:recipes/decorations/rainbow_carpet": {
+    "criteria": {
+      "has_rainbow_wool": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_red": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_underwater": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_cyan": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2022-01-30 00:12:30 +0300",
+      "inv_changed-diamond": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_green": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_gray": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_lime": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/lighter_tool": {
+    "criteria": {
+      "lighter": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-01-30 00:14:44 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_blue": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "magicfungi:first_join_book": {
+    "criteria": {
+      "tick": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_light_gray": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_pink": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_black": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_white": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_lime": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_brown": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/light_saber": {
+    "criteria": {
+      "lightsaber": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_yellow": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_green": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting_machines/wireless_powercard": {
+    "criteria": {
+      "battery": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_yellow": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/tiki_torch_light_blue": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_lantern_purple": {
+    "criteria": {
+      "lantern": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_magenta": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_light_blue": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_candle_red": {
+    "criteria": {
+      "candle": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-01-30 00:14:58 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_glowstone_pink": {
+    "criteria": {
+      "coloredglowstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "betteranimalsplus:bad_fox": {
+    "criteria": {
+      "no_bam": "2022-01-30 00:13:35 +0300"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:map_bastion": {
+    "criteria": {
+      "hasmap": "2022-01-30 00:12:30 +0300"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/campfire": {
+    "criteria": {
+      "campfire": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_lime": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_white": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_brown": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_red": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/colored_redstone_magenta": {
+    "criteria": {
+      "coloredredstone": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/pumpkin_trio": {
+    "criteria": {
+      "pumpkin": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "hyperlighting:recipes/hyperlighting/advanced_torch_purple": {
+    "criteria": {
+      "torch": "2022-01-30 00:12:30 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}

@@ -1,0 +1,4 @@
+#Lakotnik Config
+#Sun Jan 30 00:01:23 MSK 2022
+tick_update_rate=10
+enable_on_low_hunger=false
